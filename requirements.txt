@@ -6,3 +6,4 @@ weasyprint
 pdfkit
 python-dotenv
 python-docx
+gunicorn
