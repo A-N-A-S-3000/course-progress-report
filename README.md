@@ -34,8 +34,9 @@ A simple Flask web app that allows users to fill in course information and downl
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/course-progress-report.git
+git clone https://github.com/A-N-A-S-3000/course-progress-report.git
 cd course-progress-report
 python -m venv venv
 source venv/bin/activate   # or venv\\Scripts\\activate on Windows
 pip install -r requirements.txt
+python app.py
